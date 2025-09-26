@@ -9,24 +9,24 @@ import { Settings as SettingsIcon, Users, Shield, Globe, Bell, Database, Key } f
 const policeStations = [
   {
     id: "PS-001",
-    name: "Red Fort Police Station",
-    area: "Old Delhi",
+    name: "Yuksom",
+    area: "Sikkim West",
     status: "connected",
     officers: 45,
     contact: "+91 11 2327 4567"
   },
   {
     id: "PS-002", 
-    name: "Connaught Place Police Station",
-    area: "Central Delhi",
+    name: "Yumthang Valley",
+    area: "Central Sikkim",
     status: "connected",
     officers: 38,
     contact: "+91 11 2334 1234"
   },
   {
     id: "PS-003",
-    name: "Chandni Chowk Police Station", 
-    area: "Old Delhi",
+    name: "Lachen", 
+    area: "Old Sikkim City",
     status: "pending",
     officers: 42,
     contact: "+91 11 2396 5432"

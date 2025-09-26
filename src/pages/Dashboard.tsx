@@ -30,7 +30,7 @@ const recentAlerts = [
   {
     id: "SOS-001",
     user: "Tourist ID: T-9847",
-    location: "Red Fort, Delhi",
+    location: "Gurudongmar Lake, Sikkim",
     time: "2 mins ago",
     type: "SOS",
     status: "active",
@@ -38,7 +38,7 @@ const recentAlerts = [
   {
     id: "GEO-002",
     user: "Tourist ID: T-2156",
-    location: "Geofence: Chandni Chowk",
+    location: "Geofence: Yumthang Valley",
     time: "15 mins ago",
     type: "Geofence",
     status: "investigating",
@@ -46,7 +46,7 @@ const recentAlerts = [
   {
     id: "SOS-003",
     user: "Tourist ID: T-7834",
-    location: "India Gate Metro",
+    location: "Lachung",
     time: "1 hour ago",
     type: "SOS",
     status: "resolved",

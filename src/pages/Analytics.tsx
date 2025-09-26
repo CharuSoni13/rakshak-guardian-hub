@@ -134,7 +134,7 @@ export default function Analytics() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <div className="p-4 border border-border rounded-lg">
                 <div className="flex justify-between items-center mb-2">
-                  <h4 className="font-semibold">Chandni Chowk</h4>
+                  <h4 className="font-semibold">Tsomgo Lake</h4>
                   <Badge variant="destructive">High Risk</Badge>
                 </div>
                 <p className="text-sm text-muted-foreground mb-2">45 incidents this month</p>
@@ -145,7 +145,7 @@ export default function Analytics() {
 
               <div className="p-4 border border-border rounded-lg">
                 <div className="flex justify-between items-center mb-2">
-                  <h4 className="font-semibold">Old Delhi Station</h4>
+                  <h4 className="font-semibold">Nathula Pass</h4>
                   <Badge variant="secondary">Medium Risk</Badge>
                 </div>
                 <p className="text-sm text-muted-foreground mb-2">23 incidents this month</p>
@@ -156,7 +156,7 @@ export default function Analytics() {
 
               <div className="p-4 border border-border rounded-lg">
                 <div className="flex justify-between items-center mb-2">
-                  <h4 className="font-semibold">Karol Bagh Market</h4>
+                  <h4 className="font-semibold">Gangtok</h4>
                   <Badge variant="secondary">Medium Risk</Badge>
                 </div>
                 <p className="text-sm text-muted-foreground mb-2">18 incidents this month</p>
@@ -167,7 +167,7 @@ export default function Analytics() {
 
               <div className="p-4 border border-border rounded-lg">
                 <div className="flex justify-between items-center mb-2">
-                  <h4 className="font-semibold">Red Fort Area</h4>
+                  <h4 className="font-semibold">Pelling</h4>
                   <Badge variant="outline">Low Risk</Badge>
                 </div>
                 <p className="text-sm text-muted-foreground mb-2">7 incidents this month</p>
@@ -178,7 +178,7 @@ export default function Analytics() {
 
               <div className="p-4 border border-border rounded-lg">
                 <div className="flex justify-between items-center mb-2">
-                  <h4 className="font-semibold">India Gate</h4>
+                  <h4 className="font-semibold">Yuksom</h4>
                   <Badge variant="outline">Low Risk</Badge>
                 </div>
                 <p className="text-sm text-muted-foreground mb-2">3 incidents this month</p>
@@ -189,7 +189,7 @@ export default function Analytics() {
 
               <div className="p-4 border border-border rounded-lg">
                 <div className="flex justify-between items-center mb-2">
-                  <h4 className="font-semibold">Connaught Place</h4>
+                  <h4 className="font-semibold">Lachung</h4>
                   <Badge variant="outline">Low Risk</Badge>
                 </div>
                 <p className="text-sm text-muted-foreground mb-2">5 incidents this month</p>
